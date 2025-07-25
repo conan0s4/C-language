@@ -1,0 +1,14 @@
+C:\Users\loki\source\repos\OOP Activity35\bin\Debug\net8.0\OOP Activity35.exe
+C:\Users\loki\source\repos\OOP Activity35\bin\Debug\net8.0\OOP Activity35.deps.json
+C:\Users\loki\source\repos\OOP Activity35\bin\Debug\net8.0\OOP Activity35.runtimeconfig.json
+C:\Users\loki\source\repos\OOP Activity35\bin\Debug\net8.0\OOP Activity35.dll
+C:\Users\loki\source\repos\OOP Activity35\bin\Debug\net8.0\OOP Activity35.pdb
+C:\Users\loki\source\repos\OOP Activity35\obj\Debug\net8.0\OOP Activity35.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loki\source\repos\OOP Activity35\obj\Debug\net8.0\OOP Activity35.AssemblyInfoInputs.cache
+C:\Users\loki\source\repos\OOP Activity35\obj\Debug\net8.0\OOP Activity35.AssemblyInfo.cs
+C:\Users\loki\source\repos\OOP Activity35\obj\Debug\net8.0\OOP Activity35.csproj.CoreCompileInputs.cache
+C:\Users\loki\source\repos\OOP Activity35\obj\Debug\net8.0\OOP Activity35.dll
+C:\Users\loki\source\repos\OOP Activity35\obj\Debug\net8.0\refint\OOP Activity35.dll
+C:\Users\loki\source\repos\OOP Activity35\obj\Debug\net8.0\OOP Activity35.pdb
+C:\Users\loki\source\repos\OOP Activity35\obj\Debug\net8.0\OOP Activity35.genruntimeconfig.cache
+C:\Users\loki\source\repos\OOP Activity35\obj\Debug\net8.0\ref\OOP Activity35.dll

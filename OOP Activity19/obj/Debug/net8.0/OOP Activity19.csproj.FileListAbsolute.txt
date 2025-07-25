@@ -1,0 +1,14 @@
+C:\Users\loki\source\repos\OOP Activity19\bin\Debug\net8.0\OOP Activity19.exe
+C:\Users\loki\source\repos\OOP Activity19\bin\Debug\net8.0\OOP Activity19.deps.json
+C:\Users\loki\source\repos\OOP Activity19\bin\Debug\net8.0\OOP Activity19.runtimeconfig.json
+C:\Users\loki\source\repos\OOP Activity19\bin\Debug\net8.0\OOP Activity19.dll
+C:\Users\loki\source\repos\OOP Activity19\bin\Debug\net8.0\OOP Activity19.pdb
+C:\Users\loki\source\repos\OOP Activity19\obj\Debug\net8.0\OOP Activity19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loki\source\repos\OOP Activity19\obj\Debug\net8.0\OOP Activity19.AssemblyInfoInputs.cache
+C:\Users\loki\source\repos\OOP Activity19\obj\Debug\net8.0\OOP Activity19.AssemblyInfo.cs
+C:\Users\loki\source\repos\OOP Activity19\obj\Debug\net8.0\OOP Activity19.csproj.CoreCompileInputs.cache
+C:\Users\loki\source\repos\OOP Activity19\obj\Debug\net8.0\OOP Activity19.dll
+C:\Users\loki\source\repos\OOP Activity19\obj\Debug\net8.0\refint\OOP Activity19.dll
+C:\Users\loki\source\repos\OOP Activity19\obj\Debug\net8.0\OOP Activity19.pdb
+C:\Users\loki\source\repos\OOP Activity19\obj\Debug\net8.0\OOP Activity19.genruntimeconfig.cache
+C:\Users\loki\source\repos\OOP Activity19\obj\Debug\net8.0\ref\OOP Activity19.dll

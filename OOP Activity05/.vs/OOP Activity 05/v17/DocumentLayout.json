@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\loki\\source\\repos\\OOP Activity05\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B78EA72A-23A3-4B3D-A290-237F11AD22B2}|OOP Activity 05.csproj|c:\\users\\loki\\source\\repos\\oop activity05\\activitiy05.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B78EA72A-23A3-4B3D-A290-237F11AD22B2}|OOP Activity 05.csproj|solutionrelative:activitiy05.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Activitiy05.cs",
+              "DocumentMoniker": "C:\\Users\\loki\\source\\repos\\OOP Activity05\\Activitiy05.cs",
+              "RelativeDocumentMoniker": "Activitiy05.cs",
+              "ToolTip": "C:\\Users\\loki\\source\\repos\\OOP Activity05\\Activitiy05.cs",
+              "RelativeToolTip": "Activitiy05.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAAB0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T08:22:46.645Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
