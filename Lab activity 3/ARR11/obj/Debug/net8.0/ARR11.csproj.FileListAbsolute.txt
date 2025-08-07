@@ -1,0 +1,14 @@
+C:\Users\loki\source\repos\ARR11\bin\Debug\net8.0\ARR11.exe
+C:\Users\loki\source\repos\ARR11\bin\Debug\net8.0\ARR11.deps.json
+C:\Users\loki\source\repos\ARR11\bin\Debug\net8.0\ARR11.runtimeconfig.json
+C:\Users\loki\source\repos\ARR11\bin\Debug\net8.0\ARR11.dll
+C:\Users\loki\source\repos\ARR11\bin\Debug\net8.0\ARR11.pdb
+C:\Users\loki\source\repos\ARR11\obj\Debug\net8.0\ARR11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loki\source\repos\ARR11\obj\Debug\net8.0\ARR11.AssemblyInfoInputs.cache
+C:\Users\loki\source\repos\ARR11\obj\Debug\net8.0\ARR11.AssemblyInfo.cs
+C:\Users\loki\source\repos\ARR11\obj\Debug\net8.0\ARR11.csproj.CoreCompileInputs.cache
+C:\Users\loki\source\repos\ARR11\obj\Debug\net8.0\ARR11.dll
+C:\Users\loki\source\repos\ARR11\obj\Debug\net8.0\refint\ARR11.dll
+C:\Users\loki\source\repos\ARR11\obj\Debug\net8.0\ARR11.pdb
+C:\Users\loki\source\repos\ARR11\obj\Debug\net8.0\ARR11.genruntimeconfig.cache
+C:\Users\loki\source\repos\ARR11\obj\Debug\net8.0\ref\ARR11.dll

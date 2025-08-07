@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\loki\\source\\repos\\OOP Activity01\\",
+  "WorkspaceRootPath": "C:\\Users\\loki\\source\\repos\\C-language\\OOP Activity01\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EE061921-5130-4B9F-9100-7FBBE50CFDC3}|OOP Activity.csproj|c:\\users\\loki\\source\\repos\\oop activity01\\activity01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EE061921-5130-4B9F-9100-7FBBE50CFDC3}|OOP Activity.csproj|c:\\users\\loki\\source\\repos\\c-language\\oop activity01\\activity01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EE061921-5130-4B9F-9100-7FBBE50CFDC3}|OOP Activity.csproj|solutionrelative:activity01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Activity01.cs",
-              "DocumentMoniker": "C:\\Users\\loki\\source\\repos\\OOP Activity01\\Activity01.cs",
+              "DocumentMoniker": "C:\\Users\\loki\\source\\repos\\C-language\\OOP Activity01\\Activity01.cs",
               "RelativeDocumentMoniker": "Activity01.cs",
-              "ToolTip": "C:\\Users\\loki\\source\\repos\\OOP Activity01\\Activity01.cs",
+              "ToolTip": "C:\\Users\\loki\\source\\repos\\C-language\\OOP Activity01\\Activity01.cs",
               "RelativeToolTip": "Activity01.cs",
-              "ViewState": "AgIAABIAAAAAnszMzMzovwAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-25T07:31:30.988Z",
               "EditorCaption": ""
