@@ -1,0 +1,14 @@
+C:\Users\loki\source\repos\ac14\bin\Debug\net8.0\ac14.exe
+C:\Users\loki\source\repos\ac14\bin\Debug\net8.0\ac14.deps.json
+C:\Users\loki\source\repos\ac14\bin\Debug\net8.0\ac14.runtimeconfig.json
+C:\Users\loki\source\repos\ac14\bin\Debug\net8.0\ac14.dll
+C:\Users\loki\source\repos\ac14\bin\Debug\net8.0\ac14.pdb
+C:\Users\loki\source\repos\ac14\obj\Debug\net8.0\ac14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loki\source\repos\ac14\obj\Debug\net8.0\ac14.AssemblyInfoInputs.cache
+C:\Users\loki\source\repos\ac14\obj\Debug\net8.0\ac14.AssemblyInfo.cs
+C:\Users\loki\source\repos\ac14\obj\Debug\net8.0\ac14.csproj.CoreCompileInputs.cache
+C:\Users\loki\source\repos\ac14\obj\Debug\net8.0\ac14.dll
+C:\Users\loki\source\repos\ac14\obj\Debug\net8.0\refint\ac14.dll
+C:\Users\loki\source\repos\ac14\obj\Debug\net8.0\ac14.pdb
+C:\Users\loki\source\repos\ac14\obj\Debug\net8.0\ac14.genruntimeconfig.cache
+C:\Users\loki\source\repos\ac14\obj\Debug\net8.0\ref\ac14.dll
